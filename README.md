@@ -44,6 +44,7 @@ I build clean, maintainable, and fast automation solutions using **Playwright**,
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| **[VSCO Complete Scraper](https://github.com/ahmadraza-automation/vsco-complete-scraper)** | Extracts all material (images, videos, links, meta, CSS backgrounds, network media) from VSCO with clean CSV + Excel export | Playwright, Python |
 | **[RadioEchoes Scraper](https://github.com/ahmadraza-automation/radioechoes-scraper)** | High-performance Playwright scraper for RadioEchoes.com with concurrency, resume support & Excel export | Playwright, Python |
 | **[Bayt Python Jobs Scraper](https://github.com/ahmadraza-automation/Bayt-Python-Jobs-Scraper)** | Async scraper extracting 280+ Python jobs from Bayt.com (Pakistan) with full pagination | Playwright, Pandas |
 | **[LinkedIn Marketing Leads Scraper](https://github.com/ahmadraza-automation/LinkedIn-Marketing-Leads-Scraper)** | Playwright-based LinkedIn scraper for marketing leads | Playwright |
