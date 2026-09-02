@@ -2,7 +2,7 @@
 
 # Hi, I'm Ahmad Raza 👋
 
-### Python Automation Engineer | Web Scraping Specialist | Playwright & Selenium Expert
+### Python Automation Engineer | Django Expert | Web Scraping Specialist | Playwright & Selenium Expert
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=github)](https://ahmadraza-automation.github.io/Ahmad-Raza-Automation-Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-ahmadraza--automation-181717?style=for-the-badge&logo=github)](https://github.com/ahmadraza-automation)
@@ -14,13 +14,13 @@
 
 ### 🚀 About Me
 
-I'm a **Python Automation Engineer** specializing in **Web Scraping**, **Browser Automation**, and building reliable, production-ready data extraction pipelines.
+I'm a **Python Automation Engineer** and **Django Expert** specializing in **Web Scraping**, **Browser Automation**, and building reliable, production-ready data extraction pipelines & web applications.
 
-I build clean, maintainable, and fast automation solutions using **Playwright**, **Selenium**, **BeautifulSoup**, and **Pandas**.
+I build clean, maintainable, and fast solutions using **Django**, **Playwright**, **Selenium**, **BeautifulSoup**, and **Pandas**.
 
 - 📍 Based in **Pakistan**
 - 💼 Open to freelance & client projects
-- ⚡ Focus: Reliable scrapers • Async performance • Clean data exports (Excel/CSV/JSON)
+- ⚡ Focus: Django apps • Reliable scrapers • Async performance • Clean data exports
 
 ---
 
@@ -28,6 +28,9 @@ I build clean, maintainable, and fast automation solutions using **Playwright**,
 
 **Languages & Core**  
 `Python` `JavaScript` `HTML` `CSS`
+
+**Backend & Framework**  
+`Django` `Django REST Framework`
 
 **Automation & Scraping**  
 `Playwright` `Selenium` `BeautifulSoup` `Requests` `AsyncIO`
@@ -67,7 +70,7 @@ I build clean, maintainable, and fast automation solutions using **Playwright**,
 
 ### 📬 Let's Connect
 
-I'm available for **freelance automation projects**, **custom scrapers**, and **data extraction solutions**.
+I'm available for **freelance automation projects**, **Django development**, **custom scrapers**, and **data extraction solutions**.
 
 - 📧 Email: [arjafri347@gmail.com](mailto:arjafri347@gmail.com)
 - 🌐 Portfolio: [Live Portfolio](https://ahmadraza-automation.github.io/Ahmad-Raza-Automation-Portfolio/)
@@ -76,5 +79,5 @@ I'm available for **freelance automation projects**, **custom scrapers**, and **
 ---
 
 <div align="center">
-  <i>Building reliable automation solutions that save time and deliver clean data.</i>
+  <i>Building reliable automation solutions & Django apps that save time and deliver results.</i>
 </div>
