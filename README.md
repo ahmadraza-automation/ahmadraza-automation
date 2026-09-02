@@ -47,6 +47,7 @@ I build clean, maintainable, and fast solutions using **Django**, **Playwright**
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| **[LMS — Learning Management System](https://github.com/ahmadraza-automation/LMS)** | Django LMS with courses, lessons, student enrollment & instructor dashboard | Django, Python |
 | **[VSCO Complete Scraper](https://github.com/ahmadraza-automation/vsco-complete-scraper)** | Extracts all material (images, videos, links, meta, CSS backgrounds, network media) from VSCO with clean CSV + Excel export | Playwright, Python |
 | **[RadioEchoes Scraper](https://github.com/ahmadraza-automation/radioechoes-scraper)** | High-performance Playwright scraper for RadioEchoes.com with concurrency, resume support & Excel export | Playwright, Python |
 | **[Bayt Python Jobs Scraper](https://github.com/ahmadraza-automation/Bayt-Python-Jobs-Scraper)** | Async scraper extracting 280+ Python jobs from Bayt.com (Pakistan) with full pagination | Playwright, Pandas |
@@ -54,8 +55,7 @@ I build clean, maintainable, and fast solutions using **Django**, **Playwright**
 | **[Indeed Python Job Scraper](https://github.com/ahmadraza-automation/indeed-python-job-scraper)** | Scrapes Python Developer jobs from Indeed and exports to CSV | Playwright |
 | **[Books & Companies Scraper](https://github.com/ahmadraza-automation/Books-Companies-Scraper)** | BeautifulSoup + Pandas scraper with multi-format export (JSON/CSV/Excel) | BeautifulSoup, Pandas |
 | **[Mini DevTools Analyzer](https://github.com/ahmadraza-automation/Mini-DevTools-Analyzer)** | Interactive CLI tool for analyzing APIs, headers, cookies, selectors & DOM | Python |
-| **[Guest Post Sites List](https://github.com/ahmadraza-automation/guest-post-sites-list)** | Curated list of guest post / link building websites with DA, DR, traffic & contact info | Data |
-| **[Portfolio Website](https://github.com/ahmadraza-automation/Ahmad-Raza-Automation-Portfolio)** | Clean, modern portfolio showcasing automation projects | HTML/CSS |
+| **[Portfolio Website](https://github.com/ahmadraza-automation/Ahmad-Raza-Automation-Portfolio)** | Clean, modern portfolio showcasing automation & Django projects | HTML/CSS |
 
 ---
 
