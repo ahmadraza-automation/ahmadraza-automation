@@ -2,7 +2,7 @@
 
 # Hi, I'm Ahmad Raza 👋
 
-### Python Automation Engineer | Django Expert | Web Scraping Specialist | Playwright & Selenium Expert
+### Python Automation Engineer | Web Scraping Specialist | Playwright Expert
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=github)](https://ahmadraza-automation.github.io/Ahmad-Raza-Automation-Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-ahmadraza--automation-181717?style=for-the-badge&logo=github)](https://github.com/ahmadraza-automation)
@@ -14,32 +14,29 @@
 
 ### 🚀 About Me
 
-I'm a **Python Automation Engineer** and **Django Expert** specializing in **Web Scraping**, **Browser Automation**, and building reliable, production-ready data extraction pipelines & web applications.
+I'm a **Python Automation Engineer** specializing in **Web Scraping**, **Browser Automation**, and building reliable, production-ready data extraction pipelines.
 
-I build clean, maintainable, and fast solutions using **Django**, **Playwright**, **Selenium**, **BeautifulSoup**, and **Pandas**.
+I build clean, maintainable, and fast solutions using **Playwright**, **Selenium**, **BeautifulSoup**, **Pandas**, and **Django**.
 
 - 📍 Based in **Pakistan**
 - 💼 Open to freelance & client projects
-- ⚡ Focus: Django apps • Reliable scrapers • Async performance • Clean data exports
+- ⚡ Focus: High-performance scrapers • Async pipelines • Clean data exports
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages & Core**  
+**Languages**  
 `Python` `JavaScript` `HTML` `CSS`
-
-**Backend & Framework**  
-`Django` `Django REST Framework`
 
 **Automation & Scraping**  
 `Playwright` `Selenium` `BeautifulSoup` `Requests` `AsyncIO`
 
-**Data & Tools**  
-`Pandas` `OpenPyXL` `Excel` `CSV` `JSON`
+**Data & Backend**  
+`Pandas` `OpenPyXL` `Django` `Django REST Framework`
 
-**Others**  
-`Git` `GitHub` `CLI Tools`
+**Tools**  
+`Git` `GitHub` `Excel` `CSV` `JSON`
 
 ---
 
@@ -47,15 +44,12 @@ I build clean, maintainable, and fast solutions using **Django**, **Playwright**
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[LMS — Learning Management System](https://github.com/ahmadraza-automation/LMS)** | Django LMS with courses, lessons, student enrollment & instructor dashboard | Django, Python |
-| **[VSCO Complete Scraper](https://github.com/ahmadraza-automation/vsco-complete-scraper)** | Extracts all material (images, videos, links, meta, CSS backgrounds, network media) from VSCO with clean CSV + Excel export | Playwright, Python |
-| **[RadioEchoes Scraper](https://github.com/ahmadraza-automation/radioechoes-scraper)** | High-performance Playwright scraper for RadioEchoes.com with concurrency, resume support & Excel export | Playwright, Python |
-| **[Bayt Python Jobs Scraper](https://github.com/ahmadraza-automation/Bayt-Python-Jobs-Scraper)** | Async scraper extracting 280+ Python jobs from Bayt.com (Pakistan) with full pagination | Playwright, Pandas |
-| **[LinkedIn Marketing Leads Scraper](https://github.com/ahmadraza-automation/LinkedIn-Marketing-Leads-Scraper)** | Playwright-based LinkedIn scraper for marketing leads | Playwright |
-| **[Indeed Python Job Scraper](https://github.com/ahmadraza-automation/indeed-python-job-scraper)** | Scrapes Python Developer jobs from Indeed and exports to CSV | Playwright |
-| **[Books & Companies Scraper](https://github.com/ahmadraza-automation/Books-Companies-Scraper)** | BeautifulSoup + Pandas scraper with multi-format export (JSON/CSV/Excel) | BeautifulSoup, Pandas |
-| **[Mini DevTools Analyzer](https://github.com/ahmadraza-automation/Mini-DevTools-Analyzer)** | Interactive CLI tool for analyzing APIs, headers, cookies, selectors & DOM | Python |
-| **[Portfolio Website](https://github.com/ahmadraza-automation/Ahmad-Raza-Automation-Portfolio)** | Clean, modern portfolio showcasing automation & Django projects | HTML/CSS |
+| **[RadioEchoes Scraper](https://github.com/ahmadraza-automation/radioechoes-scraper)** | High-performance concurrent scraper with full resume support & Excel export | Playwright, Python |
+| **[VSCO Complete Scraper](https://github.com/ahmadraza-automation/vsco-complete-scraper)** | Extracts images, videos, links, meta & network media from VSCO | Playwright, Python |
+| **[Bayt Python Jobs Scraper](https://github.com/ahmadraza-automation/Bayt-Python-Jobs-Scraper)** | Full pagination scraper for Python jobs on Bayt.com | Playwright, Pandas |
+| **[Indeed Python Job Scraper](https://github.com/ahmadraza-automation/indeed-python-job-scraper)** | Safe scraper for Python Developer jobs from Indeed | Playwright |
+| **[LMS — Learning Management System](https://github.com/ahmadraza-automation/LMS)** | Django-based LMS with courses, lessons & enrollment | Django, Python |
+| **[Mini DevTools Analyzer](https://github.com/ahmadraza-automation/Mini-DevTools-Analyzer)** | CLI tool to analyze APIs, headers, cookies, selectors & DOM | Python |
 
 ---
 
@@ -70,7 +64,7 @@ I build clean, maintainable, and fast solutions using **Django**, **Playwright**
 
 ### 📬 Let's Connect
 
-I'm available for **freelance automation projects**, **Django development**, **custom scrapers**, and **data extraction solutions**.
+Available for **freelance automation projects**, **custom scrapers**, and **data extraction solutions**.
 
 - 📧 Email: [arjafri347@gmail.com](mailto:arjafri347@gmail.com)
 - 🌐 Portfolio: [Live Portfolio](https://ahmadraza-automation.github.io/Ahmad-Raza-Automation-Portfolio/)
@@ -79,5 +73,5 @@ I'm available for **freelance automation projects**, **Django development**, **c
 ---
 
 <div align="center">
-  <i>Building reliable automation solutions & Django apps that save time and deliver results.</i>
+  <i>Building reliable automation solutions that save time and deliver clean data.</i>
 </div>
