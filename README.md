@@ -5,6 +5,7 @@
 ### Python Automation Engineer | Web Scraping Specialist | Playwright Expert
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=github)](https://ahmadraza-automation.github.io/Ahmad-Raza-Automation-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Raza-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmad-raza-67462b413)
 [![GitHub](https://img.shields.io/badge/GitHub-ahmadraza--automation-181717?style=for-the-badge&logo=github)](https://github.com/ahmadraza-automation)
 [![Email](https://img.shields.io/badge/Email-arjafri347%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:arjafri347@gmail.com)
 
@@ -66,6 +67,7 @@ I build clean, maintainable, and fast solutions using **Playwright**, **Selenium
 
 Available for **freelance automation projects**, **custom scrapers**, and **data extraction solutions**.
 
+- 💼 LinkedIn: [Ahmad Raza](https://www.linkedin.com/in/ahmad-raza-67462b413)
 - 📧 Email: [arjafri347@gmail.com](mailto:arjafri347@gmail.com)
 - 🌐 Portfolio: [Live Portfolio](https://ahmadraza-automation.github.io/Ahmad-Raza-Automation-Portfolio/)
 - 💻 GitHub: [ahmadraza-automation](https://github.com/ahmadraza-automation)
